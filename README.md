@@ -1,23 +1,23 @@
-## I am Dithira
+## I'm Dithira 😺
 > Student |  Jr.Programmer | Apple | Google AI | Elon Musk
 
-## Skills
-- :snake: - Python
-- :beach_umbrella: - Html
-- :blue_car: - CSS 
-+ :100: - Arduino 
-+ :robot: - Discord Bot Development
+## Skills 😇                       
+1. Python
+2. C++ (Arduino)
+3. Discord.py
+4. Javascript
 
-### Contact me 💬
->[Email 📧](dithira.h@gmail.com) \
->[Discord 📥](https://discord.com/users/795973302157443073/)
+---
+### Socials 😎
+- [x] [Instagram ](https://www.instagram.com/dithirah/) | [Twitter ](https://twitter.com/dithira_h) 
+- [x] [Youtube ](https://www.youtube.com/ditechvlog) | [Hackester ](https://www.hackster.io/dithirah)
 
+---
+## Major Projects 🥳
+- Arduino Bluetooth Car [Hackster](https://www.hackster.io/dithirah/bluetooth-car-7b4826)
+- Discord bot [Discord](https://discord.com/api/oauth2/authorize?client_id=899217298051706920&permissions=8&scope=bot)
+- Dank memer minner [GitHub](https://github.com/dithira2007/Dank-memer-AFK)
+---
+### Contact me 🤓
+> [Email ](dithira.h@gmail.com) | [Discord ](https://discord.com/users/795973302157443073/)
 
-### Socials 
->[Instagram 👀](https://www.instagram.com/dithirah/) \
->[Twitter 🦩](https://twitter.com/dithira_h) \
->[Spotify 🎹](https://open.spotify.com/user/zztfsa63i10pto54yzv40vstm?si=f7103459be884d3e&nd=1) \
->[Youtube 🍿](https://www.youtube.com/ditechvlog) \
->[Hackester 👔](https://www.hackster.io/dithirah)
-
- ![muye](muye.png)
