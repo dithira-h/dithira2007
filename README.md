@@ -1,4 +1,4 @@
-## I'm Dithira 😺
+## I'm Dithira
 > Student |  Jr.Programmer | Apple | Google AI | Elon Musk
 
 ## Skills 😇                       
